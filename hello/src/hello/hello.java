@@ -10,7 +10,7 @@ public class hello {
 		SimpleDateFormat df = new SimpleDateFormat("dd/MM/yy");
 	    Date dateobj = new Date();
 	    
-	    System.out.println("Current Date is: " + dateobj);
+	    System.out.println("Current Date is " + dateobj);
 		System.out.println("Here ye : important announcement.");
 		System.out.println("Hello World");
 		System.out.println("Hi Alice!");
