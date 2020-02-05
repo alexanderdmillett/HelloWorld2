@@ -11,6 +11,7 @@ public class hello {
 	    Date dateobj = new Date();
 	    
 	    System.out.println("Current Date is " + dateobj);
+	    System.out.println("Free memory (bytes): " + Runtime.getRuntime().freeMemory());
 		System.out.println("Here ye : important announcement.");
 		System.out.println("Hello World");
 		System.out.println("Hi Alice!");
